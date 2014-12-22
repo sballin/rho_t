@@ -1,6 +1,6 @@
 ## ρ(t)
 
-Watch people mill around Columbia. Updates with data from [density.adicu.com](http://density.adicu.com/) every 15 minutes.
+Shows the history of fullness for different places on campus using the estimates provided by [density.adicu.com](http://density.adicu.com/) every 15 minutes. Find trends! Confirm your intuitions! Deviously snatch up study space!
 
 ![](finals.jpg)
 
